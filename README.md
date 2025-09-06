@@ -1,7 +1,6 @@
 ## Hi there 👋
 Eu sou o iago olha minhas contribuições 👇👍
 ![](./profile-3d-contrib/profile-night-green.svg)
-É pouco né? Eu tenho de usar mais o git...
 <!--
 **iago-cyber/iago-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
